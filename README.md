@@ -1,4 +1,4 @@
-# NLP-Adverserial-Attack
+# NLP Adverserial Attack
 
 ###### Disclaimer: This repository has been heavily influenced by the original code-base of the paper (https://github.com/robinjia/adversarial-squad) and contains a simplified re-implementation for personal learning purposes.
 
